@@ -1,0 +1,50 @@
+# 🎭 Análise Crítica de um Dilema Ético em IA  
+## Caso: Fraudes com Deepfake de Voz e Vídeo
+
+Este repositório contém uma análise crítica sobre o uso inadequado da **Inteligência Artificial** para a criação de **deepfakes** (áudio e vídeo), com foco em como essa tecnologia tem sido usada em **fraudes financeiras, manipulação política e desinformação**.
+
+📄 Acesse o documento completo em PDF:  
+👉 [Deepfake_Fraudes_IA.pdf](Deepfake_Fraudes_IA.pdf)
+
+---
+
+## 🔍 Resumo do Caso
+Em 2019, criminosos usaram IA de clonagem de voz para enganar o CEO de uma empresa de energia no Reino Unido, que acreditou estar falando com o chefe da matriz. O executivo autorizou a transferência de **US$ 243.000** para uma conta fraudulenta. Desde então, casos semelhantes vêm crescendo, atingindo empresas e cidadãos comuns.
+
+---
+
+## 📚 Framework Aplicado
+- **NIST AI Risk Management Framework (AI RMF 1.0)**: governar, mapear riscos, medir e mitigar.  
+- **ACM Code of Ethics & UNESCO**: evitar danos, proteger direitos humanos, combater desinformação.
+
+---
+
+## ⚖️ Principais Pontos da Análise
+- **Governança**: falta de regras claras sobre quem pode usar sistemas de clonagem de voz/vídeo.  
+- **Riscos**: fraude bancária, manipulação política, pornografia de vingança, perda de confiança social.  
+- **Mitigação**: watermarking digital, detectores de deepfake, regulação legal, educação digital.  
+- **Ética**: uso fraudulento de IA viola princípios de justiça, segurança e direitos humanos.
+
+---
+
+## 🧑‍💻 Posição Profissional
+O uso de IA generativa não é antiético por si só, mas **sem controles técnicos, jurídicos e sociais, os riscos superam os benefícios**.  
+É necessária **responsabilidade compartilhada** entre desenvolvedores, empresas, governos e sociedade.
+
+---
+
+## ✅ Recomendações
+- **Desenvolvedores**: restrições de uso, marcas digitais (*watermarking*), termos claros.  
+- **Empresas**: detectores automáticos e auditorias de segurança.  
+- **Governos**: legislar contra fraudes com IA.  
+- **Sociedade**: alfabetização midiática e cibersegurança básica.
+
+---
+
+## 📂 Estrutura do Repositório
+- `Deepfake_Fraudes_IA.pdf` → Documento completo em PDF  
+- `README.md` → Este arquivo de apresentação
+
+---
+
+✍️ Criado para fins acadêmicos no curso de **Análise e Desenvolvimento de Sistemas (ADS)**.
